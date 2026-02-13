@@ -4,6 +4,8 @@
 - [ ] Get to the school on time for the swim meet.
 - [ ] Swim fast in my races.
 - [ ] Go home and do homework.
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
+
 
 ## Swimming
 Today I went to the district finals swim meet that took a few hours to finish but now we're done with the swim season. I got a few personal records and I'm happy with my progress.
